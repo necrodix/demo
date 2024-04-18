@@ -1,7 +1,7 @@
 {
   "productos": [
     {
-      "imagen": "https://example.com/alimento_perros.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/71GkADeHy+L._AC_SY300_SX300_.jpg",
       "categoria": "alimentacion_nutricion",
       "nombre": "Alimento balanceado para perros adultos",
       "precio": "45.99",
@@ -9,7 +9,7 @@
       "id": 1
     },
     {
-      "imagen": "https://example.com/alimento_gatos.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61qtT+nWnOL._AC_SY300_SX300_.jpg",
       "categoria": "alimentacion_nutricion",
       "nombre": "Alimento premium para gatos",
       "precio": "38.50",
@@ -17,7 +17,7 @@
       "id": 2
     },
     {
-      "imagen": "https://example.com/suplemento_vitaminico.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/41rj84ZPRGL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "categoria": "alimentacion_nutricion",
       "nombre": "Suplemento vitamínico para perros y gatos",
       "precio": "19.99",
@@ -25,7 +25,7 @@
       "id": 3
     },
     {
-      "imagen": "https://example.com/champu_cachorros.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61b86N7BKLL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "categoria": "cuidado_higiene",
       "nombre": "Champú para cachorros",
       "precio": "12.99",
@@ -33,7 +33,7 @@
       "id": 4
     },
     {
-      "imagen": "https://example.com/cepillo_gatos.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61VbIlnDaNL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "categoria": "cuidado_higiene",
       "nombre": "Cepillo para gatos",
       "precio": "8.75",
@@ -41,7 +41,7 @@
       "id": 5
     },
     {
-      "imagen": "https://example.com/juguete_perros.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/51t3qhC2tGL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "categoria": "cuidado_higiene",
       "nombre": "Juguete mordedor para perros",
       "precio": "7.50",
@@ -49,7 +49,7 @@
       "id": 6
     },
     {
-      "imagen": "https://example.com/collar_antipulgas.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61sWz9+YSbL._AC_SY300_SX300_.jpg",
       "categoria": "prevencion_parasitos",
       "nombre": "Collar antipulgas para perros",
       "precio": "18.75",
@@ -57,7 +57,7 @@
       "id": 7
     },
     {
-      "imagen": "https://example.com/desparasitante_gatos.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61kKhgSEmHL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "categoria": "prevencion_parasitos",
       "nombre": "Desparasitante para gatos en pasta",
       "precio": "14.99",
@@ -65,7 +65,7 @@
       "id": 8
     },
     {
-      "imagen": "https://example.com/arnes_perros.jpg",
+      "imagen": "https://m.media-amazon.com/images/I/61osommbArL.__AC_SX300_SY300_QL70_ML2_.jpg",
       "categoria": "prevencion_parasitos",
       "nombre": "Arnés repelente de garrapatas para perros",
       "precio": "22.50",
